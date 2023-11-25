@@ -1,0 +1,4 @@
+Nombre del Paciente: carlos
+Fecha de Citas: 12/3/2023 00:00:00
+Razón de Consulta: dolor
+Costo de Consulta: 23.99
